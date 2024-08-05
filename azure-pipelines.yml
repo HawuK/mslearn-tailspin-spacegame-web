@@ -2,7 +2,7 @@ trigger:
 - '*'
 #poolin vaihto
 pool:
-  name: 'MyAgentPool'
+  vmImage: 'MyAgentPoolisthis'
   demands:
   - npm
 
