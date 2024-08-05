@@ -2,7 +2,7 @@ trigger:
 - '*'
 #poolin vaihto
 pool:
-  vmImage: 'MyAgentPoolisthis'
+  vmImage: 'ubuntu-20-04'
   demands:
   - npm
 
